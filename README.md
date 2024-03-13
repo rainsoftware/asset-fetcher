@@ -1,5 +1,5 @@
-# Asset Fetcher 
-this program works by using the ```<a href="https://asset_url_here.jpg">asset</a>``` tag, asset urls are put into the url_database.html file.
+# gif Fetcher 
+this program works by using the ```<a href="https://asset_url_here.gif">asset</a>``` tag, asset urls are put into the url_database.html file.
 
 to fetch the assets placed within the url database run fetch.py
 
